@@ -2,9 +2,6 @@
 
 This project focuses on implementing a trigger word detection system using deep learning techniques. Trigger word detection, also known as wake word detection, is the process of identifying specific keywords or phrases in an audio stream to activate a voice assistant or initiate a specific action.
 
-<div align="center">
-<img src="images\art.png" style="width:750px;"> <br>
-</div>
 
 ![Deep Learning](https://img.shields.io/badge/Skill-Deep%20Learning-yellow)
 ![Recurrent Neural Networks](https://img.shields.io/badge/Skill-Recurrent%20Neural%20Networks-blueviolet)
